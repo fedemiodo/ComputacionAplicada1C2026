@@ -1,4 +1,4 @@
-# ComputacionAplicada1C2026
+# ComputacionAplicada1C2026 - Grupo 1
 
 ## Integrantes
 * Federico Miodownik
